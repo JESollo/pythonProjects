@@ -1,6 +1,6 @@
 import random
 
-#getAnswer() a the function 
+#getAnswer() is a function 
 #(answerNumber) is assigned as a parameter
 #return value is stored in the answerNumber parameter. Depending on the parameters value passed by the 'r' argument, it will return 1 of 9 possible string values
 def getAnswer(answerNumber):
